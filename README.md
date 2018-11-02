@@ -35,7 +35,6 @@
 #### 执行函数逻辑
 ![return](./src/deal9.jpg)
 #### 使用自定义页面组件
-![return](./src/deal5.jpg)
 ![return](./src/deal6.jpg)
 ![return](./src/deal7.jpg)
 ![return](./src/deal8.jpg)

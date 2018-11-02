@@ -11,9 +11,9 @@
 
 ### 开发流程
 #### 配置自定义页面组件
- ![return](./src/field1.png)    
- ![return](./src/field2.png)  
- ![return](./src/field3.png)
+ ![return](./src/field1.jpg)    
+ ![return](./src/field2.jpg)  
+ ![return](./src/field3.jpg)
  ![return](./src/field4.png)
  ![return](./src/field5.png)
  ![return](./src/field6.png)

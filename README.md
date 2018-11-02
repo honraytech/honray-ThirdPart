@@ -14,34 +14,34 @@
  ![return](./src/field1.jpg)    
  ![return](./src/field2.jpg)  
  ![return](./src/field3.jpg)
- ![return](./src/field4.png)
- ![return](./src/field5.png)
- ![return](./src/field6.png)
- ![return](./src/field7.png)
+ ![return](./src/field4.jpg)
+ ![return](./src/field5.jpg)
+ ![return](./src/field6.jpg)
+ ![return](./src/field7.jpg)
 #### 使用自定义组件
- ![return](./src/field8.png)
- ![return](./src/field9.png)
+ ![return](./src/field8.jpg)
+ ![return](./src/field9.jpg)
 #### 实例化展示
- ![return](./src/field10.png)
+ ![return](./src/field10.jpg)
 
 ### 自定义页面组件-列表组件
 > 自定义列表组件：显示表单数据，内置添加、编辑、删除按钮，点击这三个按钮会触发惟快云本身的添加、编辑、删除组件
 
 ### 开发流程
 #### 配置自定义页面组件
-![return](./src/deal1.png)
-![return](./src/deal2.png)
-![return](./src/deal3.png)
-![return](./src/deal4.png)
+![return](./src/deal1.jpg)
+![return](./src/deal2.jpg)
+![return](./src/deal3.jpg)
+![return](./src/deal4.jpg)
 #### 执行函数逻辑
-![return](./src/deal9.png)
+![return](./src/deal9.jpg)
 #### 使用自定义页面组件
-![return](./src/deal5.png)
-![return](./src/deal6.png)
-![return](./src/deal7.png)
-![return](./src/deal8.png)
+![return](./src/deal5.jpg)
+![return](./src/deal6.jpg)
+![return](./src/deal7.jpg)
+![return](./src/deal8.jpg)
 #### 实例化展示
-![return](./src/deal11.png)
+![return](./src/deal11.jpg)
  
 
 
